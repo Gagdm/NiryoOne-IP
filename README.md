@@ -1,6 +1,6 @@
 # Braço Robótico, modelo Niryo One - Simulador de Votos
 
-https://github.com/user-attachments/assets/34cab119-ee6e-4679-b22e-810b84b2d1b8
+https://github.com/user-attachments/assets/044d526a-8b2c-4016-b8fa-8394cf324a9b
 
 ### Resumo
 
